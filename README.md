@@ -1,7 +1,7 @@
 
 # Hey there 👋
 
-I'm **Sai Sumanth**, a Data Analytics and Business Intelligence professional with **6+ years of experience** working with data, analytics, and machine learning.
+I'm **Sai Sumanth**, a Data Analytics and Business Intelligence professional with **7+ years of experience** working with data, analytics, and machine learning.
 
 I work primarily with **Python, SQL, Power BI, Tableau, and data engineering tools**, building solutions that turn complex business data into meaningful insights.
 
